@@ -1,0 +1,17 @@
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\Hospital Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\Hospital Information.AssemblyInfoInputs.cache
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\Hospital Information.AssemblyInfo.cs
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\Hospital Information.csproj.CoreCompileInputs.cache
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\bin\Debug\net8.0\Hospital Information.exe
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\bin\Debug\net8.0\Hospital Information.deps.json
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\bin\Debug\net8.0\Hospital Information.runtimeconfig.json
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\bin\Debug\net8.0\Hospital Information.dll
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\bin\Debug\net8.0\Hospital Information.pdb
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\Hospital Information.dll
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\refint\Hospital Information.dll
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\Hospital Information.pdb
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\Hospital Information.genruntimeconfig.cache
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\ref\Hospital Information.dll
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\Hospital Information.csproj.AssemblyReference.cache
+C:\Users\shohs\source\repos\Hospital Information\Hospital Information\obj\Debug\net8.0\Hospital Information.csproj.CopyComplete

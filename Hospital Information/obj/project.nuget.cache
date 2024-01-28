@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yeGNhk60bngoc4vuAk/QXsW4oyxC/oHsvdvbw4o1mStGbIUG49eKCjVPLkgliK4057wjnhHCvQ/JsT4CdKSN1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shohs\\source\\repos\\Hospital Information\\Hospital Information\\Hospital Information.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shohs\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\shohs\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
